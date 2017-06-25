@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+.isabella-name {
+    color:red;
+}
+.isabella-header {
+    color:blue;
+}
